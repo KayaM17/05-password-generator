@@ -19,9 +19,6 @@ Note: This is a screenshot from laptop view.
 
 ![Alt text](<images/password-generator screenshot.png>)
 
-The following image shows the web application's appearance and functionality:
-
-[\[Title\](<images/Screen Recording - password generator.mov>)](<images/Screen Recording - password generator.mov>)
 
 ## References
 
@@ -31,5 +28,6 @@ Youtube - Tutorials
 
 License Licensed under the MIT License
 
-GitHub Repository URL: 
-Deployed Web Application URL: 
+GitHub Repository URL: https://github.com/KayaM17/05-password-generator
+
+Deployed Web Application URL: https://kayam17.github.io/05-password-generator/
