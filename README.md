@@ -23,9 +23,9 @@ Note: This is a screenshot from laptop view.
 
 ## Development Process
 
-I started by researching best practices for password generation and familiarising myself with Python's random and string libraries. These libraries proved to be invaluable for generating random characters and strings, making the password generation process straightforward.
+I started by researching best practices for password generation and familiarising myself with JavaScript random and string libraries. These libraries proved to be invaluable for generating random characters and strings, making the password generation process straightforward.
 
-Next, I designed a simple command-line interface using Python's built-in input function to prompt users for their password criteria, such as length and character types. I ensured that the tool provided flexibility, allowing users to customise their passwords based on their security requirements.
+Next, I designed a simple command-line interface using JavaScript built-in input function to prompt users for their password criteria, such as length and character types. 
 
 Throughout the development process, I conducted thorough testing to ensure the reliability and security of the password generator. I tested various edge cases and scenarios to identify and fix any potential vulnerabilities or bugs.
 
@@ -36,7 +36,8 @@ One challenge I encountered during development was striking the right balance be
 
 ## Future Improvements
 
-In the future, I plan to enhance the password generator by adding additional features such as password strength evaluation and the ability to save generated passwords securely. I also aim to explore ways to integrate the tool into web applications, making it more accessible to a wider audience.
+In the future, I plan to provide flexibility, allowing users to customise their passwords based on their security requirements &
+ability to save generated passwords securely. I also aim to explore ways to integrate the tool into web applications, making it more accessible to a wider audience. 
 
 ## Conclusion
 
